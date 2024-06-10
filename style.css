@@ -245,7 +245,7 @@ nav ul li a:hover::after{
 }
 .btn{
     display:block;
-    margin: 50 px auto;
+    margin: 50px auto;
     width: fit-content;
     border: 2px solid #ff004f;
     padding: 14px 50px;
@@ -259,9 +259,13 @@ nav ul li a:hover::after{
 }
 
 
-
 .contact-left{
     flex-basis: 35%;
+}
+
+.link{
+    color: grey;
+    text-decoration: none;
 }
 .contact-right{
     flex-basis: 60%;
@@ -312,6 +316,10 @@ form btn2{
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
+}
+
+.btn3{
+    background-color: transparent;
 }
 .copyright{
     width: 100%;
