@@ -21,6 +21,6 @@ Dynamic Portfolio website which consists the overview of my technical journey as
 Deployed using netlify  https://sur21portfolio.netlify.app/
 
 # Languages Used
-HTML
-CSS
+HTML< br / >
+CSS< br / >
 JAVASCRIPT
